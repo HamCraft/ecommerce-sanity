@@ -22,7 +22,7 @@ export default function stripeSuccess() {
             Thank you for you pruchase We hope you enjoy it
           </p>
           <p>Have a great day!</p>
-          <Button asChild className="mt-5">
+          <Button asChild className="mt-5 mb-8">
             <Link href="/">GO back</Link>
           </Button>
         </div>
